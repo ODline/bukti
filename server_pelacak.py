@@ -6,7 +6,7 @@ from datetime import datetime
 app = Flask(__name__)
 
 # --- Konfigurasi ---
-GITHUB_TOKEN = 'PASTE_TOKEN_GITHUB_ANDA_DI_SINI' # Silakan paste token Anda di sini
+GITHUB_TOKEN = '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' # Silakan paste token Anda di sini
 REPO_NAME = 'ODline/log-lokasi'                # Sudah disesuaikan dengan repo Anda
 FILE_PATH = 'target.txt'                       # File tempat menyimpan log
 GAMBAR_ASLI = 'pemandangan.jpg'                # Pastikan file gambar ini ada di folder yang sama
